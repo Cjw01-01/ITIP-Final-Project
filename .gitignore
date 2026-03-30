@@ -7,3 +7,8 @@ venv/
 !data/raw/.gitkeep
 *.log
 .DS_Store
+
+# Folders not needed on GitHub
+report/
+ProjectInstructions/
+Material/
