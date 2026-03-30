@@ -1,0 +1,341 @@
+{
+  "top_k": 5,
+  "per_question": [
+    {
+      "id": "Q01",
+      "question": "What open positions are there for machine learning at inmind.ai?",
+      "collection": "job_postings",
+      "retrieved_ids": [
+        "job_syn_001",
+        "job_syn_001",
+        "job_syn_010",
+        "job_syn_015",
+        "job_syn_010"
+      ],
+      "expected_ids": [
+        "job_syn_001"
+      ],
+      "precision": 0.2,
+      "recall": 1.0,
+      "mrr": 1.0
+    },
+    {
+      "id": "Q02",
+      "question": "What are the requirements for the DevOps Engineer role?",
+      "collection": "job_postings",
+      "retrieved_ids": [
+        "job_syn_005",
+        "job_syn_005",
+        "job_syn_010",
+        "job_syn_005",
+        "job_syn_017"
+      ],
+      "expected_ids": [
+        "job_syn_005"
+      ],
+      "precision": 0.2,
+      "recall": 1.0,
+      "mrr": 1.0
+    },
+    {
+      "id": "Q03",
+      "question": "Is there a remote position available at inmind.ai?",
+      "collection": "job_postings",
+      "retrieved_ids": [
+        "job_syn_008",
+        "job_syn_019",
+        "job_syn_001",
+        "job_syn_010",
+        "job_syn_005"
+      ],
+      "expected_ids": [
+        "job_syn_003"
+      ],
+      "precision": 0.0,
+      "recall": 0.0,
+      "mrr": 0.0
+    },
+    {
+      "id": "Q04",
+      "question": "What internship positions are available at BMW Group?",
+      "collection": "job_postings",
+      "retrieved_ids": [
+        "job_syn_009",
+        "job_syn_012",
+        "job_syn_006",
+        "job_syn_009",
+        "job_syn_002"
+      ],
+      "expected_ids": [
+        "job_syn_002"
+      ],
+      "precision": 0.2,
+      "recall": 1.0,
+      "mrr": 0.2
+    },
+    {
+      "id": "Q05",
+      "question": "What backend development roles are currently open?",
+      "collection": "job_postings",
+      "retrieved_ids": [
+        "job_syn_017",
+        "job_syn_004",
+        "job_syn_017",
+        "job_syn_004",
+        "job_syn_011"
+      ],
+      "expected_ids": [
+        "job_syn_004"
+      ],
+      "precision": 0.2,
+      "recall": 1.0,
+      "mrr": 0.5
+    },
+    {
+      "id": "Q06",
+      "question": "What is the salary range for mid-level positions at inmind.ai?",
+      "collection": "job_postings",
+      "retrieved_ids": [
+        "job_syn_010",
+        "job_syn_001",
+        "job_syn_005",
+        "job_syn_008",
+        "job_syn_015"
+      ],
+      "expected_ids": [
+        "job_syn_001",
+        "job_syn_005"
+      ],
+      "precision": 0.4,
+      "recall": 1.0,
+      "mrr": 0.5
+    },
+    {
+      "id": "Q07",
+      "question": "How many days of annual leave does an employee get after their first year?",
+      "collection": "hr_policies",
+      "retrieved_ids": [
+        "hr_pol_001",
+        "hr_pol_007",
+        "hr_pol_005",
+        "hr_pol_004",
+        "hr_pol_006"
+      ],
+      "expected_ids": [
+        "hr_pol_001"
+      ],
+      "precision": 0.2,
+      "recall": 1.0,
+      "mrr": 1.0
+    },
+    {
+      "id": "Q08",
+      "question": "What is the code of conduct regarding discrimination and harassment?",
+      "collection": "hr_policies",
+      "retrieved_ids": [
+        "hr_pol_002",
+        "hr_pol_008",
+        "hr_pol_009",
+        "hr_pol_004",
+        "hr_pol_003"
+      ],
+      "expected_ids": [
+        "hr_pol_002"
+      ],
+      "precision": 0.2,
+      "recall": 1.0,
+      "mrr": 1.0
+    },
+    {
+      "id": "Q09",
+      "question": "Can I work remotely full-time?",
+      "collection": "hr_policies",
+      "retrieved_ids": [
+        "hr_pol_003",
+        "hr_pol_006",
+        "hr_pol_005",
+        "hr_pol_001",
+        "hr_pol_007"
+      ],
+      "expected_ids": [
+        "hr_pol_003"
+      ],
+      "precision": 0.2,
+      "recall": 1.0,
+      "mrr": 1.0
+    },
+    {
+      "id": "Q10",
+      "question": "What happens if an employee is terminated for misconduct?",
+      "collection": "hr_policies",
+      "retrieved_ids": [
+        "hr_pol_004",
+        "hr_pol_008",
+        "hr_pol_002",
+        "hr_pol_007",
+        "hr_pol_009"
+      ],
+      "expected_ids": [
+        "hr_pol_004"
+      ],
+      "precision": 0.2,
+      "recall": 1.0,
+      "mrr": 1.0
+    },
+    {
+      "id": "Q11",
+      "question": "What are the standard working hours per week?",
+      "collection": "hr_policies",
+      "retrieved_ids": [
+        "hr_pol_006",
+        "hr_pol_003",
+        "hr_pol_009",
+        "hr_pol_001",
+        "hr_pol_005"
+      ],
+      "expected_ids": [
+        "hr_pol_006"
+      ],
+      "precision": 0.2,
+      "recall": 1.0,
+      "mrr": 1.0
+    },
+    {
+      "id": "Q12",
+      "question": "How many sick leave days am I entitled to and what documentation is required?",
+      "collection": "hr_policies",
+      "retrieved_ids": [
+        "hr_pol_007",
+        "hr_pol_001",
+        "hr_pol_004",
+        "hr_pol_005",
+        "hr_pol_006"
+      ],
+      "expected_ids": [
+        "hr_pol_007"
+      ],
+      "precision": 0.2,
+      "recall": 1.0,
+      "mrr": 1.0
+    },
+    {
+      "id": "Q17",
+      "question": "What technical skills are required for the BMW AI placement?",
+      "collection": "placement_briefs",
+      "retrieved_ids": [
+        "place_007",
+        "place_001",
+        "place_013",
+        "place_012",
+        "place_002"
+      ],
+      "expected_ids": [
+        "place_007",
+        "place_013"
+      ],
+      "precision": 0.4,
+      "recall": 1.0,
+      "mrr": 1.0
+    },
+    {
+      "id": "Q18",
+      "question": "What programming languages are used in the Robotics track at BMW?",
+      "collection": "placement_briefs",
+      "retrieved_ids": [
+        "place_012",
+        "place_002",
+        "place_006",
+        "place_007",
+        "place_001"
+      ],
+      "expected_ids": [
+        "place_012"
+      ],
+      "precision": 0.2,
+      "recall": 1.0,
+      "mrr": 1.0
+    },
+    {
+      "id": "Q19",
+      "question": "How long does the BMW internship last and where is it located?",
+      "collection": "placement_briefs",
+      "retrieved_ids": [
+        "place_009",
+        "place_004",
+        "place_014",
+        "place_006",
+        "place_001"
+      ],
+      "expected_ids": [
+        "place_004",
+        "place_014"
+      ],
+      "precision": 0.4,
+      "recall": 1.0,
+      "mrr": 0.5
+    },
+    {
+      "id": "Q20",
+      "question": "What tools are needed for the Simulation track?",
+      "collection": "placement_briefs",
+      "retrieved_ids": [
+        "place_005",
+        "place_008",
+        "place_014",
+        "place_012",
+        "place_002"
+      ],
+      "expected_ids": [
+        "place_005",
+        "place_008"
+      ],
+      "precision": 0.4,
+      "recall": 1.0,
+      "mrr": 1.0
+    },
+    {
+      "id": "Q21",
+      "question": "How are backend interns assessed at BMW Group?",
+      "collection": "placement_briefs",
+      "retrieved_ids": [
+        "place_010",
+        "place_009",
+        "place_003",
+        "place_011",
+        "place_001"
+      ],
+      "expected_ids": [
+        "place_010"
+      ],
+      "precision": 0.2,
+      "recall": 1.0,
+      "mrr": 1.0
+    }
+  ],
+  "per_collection": {
+    "job_postings": {
+      "avg_precision": 0.2,
+      "avg_recall": 0.8333,
+      "avg_mrr": 0.5333,
+      "n_questions": 6
+    },
+    "hr_policies": {
+      "avg_precision": 0.2,
+      "avg_recall": 1.0,
+      "avg_mrr": 1.0,
+      "n_questions": 6
+    },
+    "placement_briefs": {
+      "avg_precision": 0.32,
+      "avg_recall": 1.0,
+      "avg_mrr": 0.9,
+      "n_questions": 5
+    }
+  },
+  "aggregate": {
+    "avg_precision": 0.2353,
+    "avg_recall": 0.9412,
+    "avg_mrr": 0.8059,
+    "total_questions": 17
+  }
+}

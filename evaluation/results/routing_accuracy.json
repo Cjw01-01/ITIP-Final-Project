@@ -1,0 +1,239 @@
+{
+  "accuracy": 0.9655,
+  "correct": 28,
+  "total": 29,
+  "details": [
+    {
+      "id": "Q01",
+      "expected_route": "job_search",
+      "actual_route": "job_search",
+      "specialist_used": "job_search",
+      "guardrail_blocked": false,
+      "correct": true
+    },
+    {
+      "id": "Q02",
+      "expected_route": "job_search",
+      "actual_route": "job_search",
+      "specialist_used": "job_search",
+      "guardrail_blocked": false,
+      "correct": true
+    },
+    {
+      "id": "Q03",
+      "expected_route": "job_search",
+      "actual_route": "job_search",
+      "specialist_used": "job_search",
+      "guardrail_blocked": false,
+      "correct": true
+    },
+    {
+      "id": "Q04",
+      "expected_route": "job_search",
+      "actual_route": "bmw_placement",
+      "specialist_used": "bmw_placement",
+      "guardrail_blocked": false,
+      "correct": false
+    },
+    {
+      "id": "Q05",
+      "expected_route": "job_search",
+      "actual_route": "job_search",
+      "specialist_used": "job_search",
+      "guardrail_blocked": false,
+      "correct": true
+    },
+    {
+      "id": "Q06",
+      "expected_route": "job_search",
+      "actual_route": "job_search",
+      "specialist_used": "job_search",
+      "guardrail_blocked": false,
+      "correct": true
+    },
+    {
+      "id": "Q07",
+      "expected_route": "policy",
+      "actual_route": "policy",
+      "specialist_used": "policy",
+      "guardrail_blocked": false,
+      "correct": true
+    },
+    {
+      "id": "Q08",
+      "expected_route": "policy",
+      "actual_route": "policy",
+      "specialist_used": "policy",
+      "guardrail_blocked": false,
+      "correct": true
+    },
+    {
+      "id": "Q09",
+      "expected_route": "policy",
+      "actual_route": "policy",
+      "specialist_used": "policy",
+      "guardrail_blocked": false,
+      "correct": true
+    },
+    {
+      "id": "Q10",
+      "expected_route": "policy",
+      "actual_route": "policy",
+      "specialist_used": "policy",
+      "guardrail_blocked": false,
+      "correct": true
+    },
+    {
+      "id": "Q11",
+      "expected_route": "policy",
+      "actual_route": "policy",
+      "specialist_used": "policy",
+      "guardrail_blocked": false,
+      "correct": true
+    },
+    {
+      "id": "Q12",
+      "expected_route": "policy",
+      "actual_route": "policy",
+      "specialist_used": "policy",
+      "guardrail_blocked": false,
+      "correct": true
+    },
+    {
+      "id": "Q13",
+      "expected_route": "candidate_screener",
+      "actual_route": "candidate_screener",
+      "specialist_used": "candidate_screener",
+      "guardrail_blocked": false,
+      "correct": true
+    },
+    {
+      "id": "Q14",
+      "expected_route": "candidate_screener",
+      "actual_route": "candidate_screener",
+      "specialist_used": "candidate_screener",
+      "guardrail_blocked": false,
+      "correct": true
+    },
+    {
+      "id": "Q15",
+      "expected_route": "candidate_screener",
+      "actual_route": "candidate_screener",
+      "specialist_used": "candidate_screener",
+      "guardrail_blocked": false,
+      "correct": true
+    },
+    {
+      "id": "Q16",
+      "expected_route": "candidate_screener",
+      "actual_route": "candidate_screener",
+      "specialist_used": "candidate_screener",
+      "guardrail_blocked": false,
+      "correct": true
+    },
+    {
+      "id": "Q17",
+      "expected_route": "bmw_placement",
+      "actual_route": "bmw_placement",
+      "specialist_used": "bmw_placement",
+      "guardrail_blocked": false,
+      "correct": true
+    },
+    {
+      "id": "Q18",
+      "expected_route": "bmw_placement",
+      "actual_route": "bmw_placement",
+      "specialist_used": "bmw_placement",
+      "guardrail_blocked": false,
+      "correct": true
+    },
+    {
+      "id": "Q19",
+      "expected_route": "bmw_placement",
+      "actual_route": "bmw_placement",
+      "specialist_used": "bmw_placement",
+      "guardrail_blocked": false,
+      "correct": true
+    },
+    {
+      "id": "Q20",
+      "expected_route": "bmw_placement",
+      "actual_route": "bmw_placement",
+      "specialist_used": "bmw_placement",
+      "guardrail_blocked": false,
+      "correct": true
+    },
+    {
+      "id": "Q21",
+      "expected_route": "bmw_placement",
+      "actual_route": "bmw_placement",
+      "specialist_used": "bmw_placement",
+      "guardrail_blocked": false,
+      "correct": true
+    },
+    {
+      "id": "Q22",
+      "expected_route": "candidate_screener",
+      "actual_route": "candidate_screener",
+      "specialist_used": "candidate_screener",
+      "guardrail_blocked": false,
+      "correct": true
+    },
+    {
+      "id": "Q23",
+      "expected_route": "candidate_screener",
+      "actual_route": "candidate_screener",
+      "specialist_used": "candidate_screener",
+      "guardrail_blocked": false,
+      "correct": true
+    },
+    {
+      "id": "Q24",
+      "expected_route": "guardrail_block",
+      "actual_route": "none",
+      "specialist_used": "none",
+      "guardrail_blocked": true,
+      "correct": true
+    },
+    {
+      "id": "Q25",
+      "expected_route": "guardrail_block",
+      "actual_route": "none",
+      "specialist_used": "none",
+      "guardrail_blocked": true,
+      "correct": true
+    },
+    {
+      "id": "Q26",
+      "expected_route": "FINISH",
+      "actual_route": "FINISH",
+      "specialist_used": "",
+      "guardrail_blocked": false,
+      "correct": true
+    },
+    {
+      "id": "Q27",
+      "expected_route": "FINISH",
+      "actual_route": "FINISH",
+      "specialist_used": "",
+      "guardrail_blocked": false,
+      "correct": true
+    },
+    {
+      "id": "Q28",
+      "expected_route": "guardrail_block",
+      "actual_route": "none",
+      "specialist_used": "none",
+      "guardrail_blocked": true,
+      "correct": true
+    },
+    {
+      "id": "Q29",
+      "expected_route": "guardrail_block",
+      "actual_route": "none",
+      "specialist_used": "none",
+      "guardrail_blocked": true,
+      "correct": true
+    }
+  ]
+}

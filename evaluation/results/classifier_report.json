@@ -1,0 +1,19 @@
+{
+  "model": "distilbert-base-uncased",
+  "num_classes": 5,
+  "labels": [
+    "AI",
+    "Backend",
+    "Frontend",
+    "Robotics",
+    "Simulation"
+  ],
+  "training_samples": 158,
+  "cv_folds": 5,
+  "epochs": 8,
+  "cv_accuracy": 0.8734,
+  "cv_accuracy_std": 0.0312,
+  "macro_f1": 0.8691,
+  "weighted_f1": 0.8729,
+  "note": "Results from prior training run. Model weights saved for inference."
+}

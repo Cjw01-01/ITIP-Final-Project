@@ -1,0 +1,34 @@
+{
+  "comparison_1_chunk_size": {
+    "description": "Chunk size for job_postings: current (350 tok) evaluated at K=5",
+    "chunk_350": {
+      "avg_precision": 0.2,
+      "avg_recall": 0.8333,
+      "avg_mrr": 0.5333,
+      "n": 6
+    },
+    "note": "Proposal \u00a712.5 Comparison 1: Structure-aware 350-token chunks are hypothesized to yield higher P@5 vs 500-token whole-document chunks because section-specific queries retrieve section-specific chunks. A 500-token re-ingestion comparison can be run by modifying ingest.py chunk sizes and re-running this script."
+  },
+  "comparison_2_top_k": {
+    "description": "Retrieval top-K: K=3 vs K=5 vs K=7 across all RAG questions",
+    "K=3": {
+      "avg_precision": 0.3725,
+      "avg_recall": 0.8824,
+      "avg_mrr": 0.7941,
+      "n": 17
+    },
+    "K=5": {
+      "avg_precision": 0.2353,
+      "avg_recall": 0.9412,
+      "avg_mrr": 0.8059,
+      "n": 17
+    },
+    "K=7": {
+      "avg_precision": 0.1765,
+      "avg_recall": 1.0,
+      "avg_mrr": 0.8157,
+      "n": 17
+    },
+    "hypothesis": "K=5 is optimal: K=3 may miss multi-chunk answers (lower recall), K=7 adds noise (lower precision and RAGAS faithfulness)."
+  }
+}

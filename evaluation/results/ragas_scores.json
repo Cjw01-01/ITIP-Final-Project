@@ -1,0 +1,179 @@
+{
+  "aggregate": {
+    "faithfulness": 0.8849,
+    "answer_relevancy": 0.881,
+    "context_precision": 0.6,
+    "context_recall": 0.9016
+  },
+  "per_question": [
+    {
+      "id": "Q01",
+      "question": "What open positions are there for machine learning at inmind.ai?",
+      "faithfulness": 1.0,
+      "answer_relevancy": 1.0,
+      "context_precision": 0.8,
+      "context_recall": 0.6
+    },
+    {
+      "id": "Q02",
+      "question": "What are the requirements for the DevOps Engineer role?",
+      "faithfulness": 0.0,
+      "answer_relevancy": 1.0,
+      "context_precision": 0.8,
+      "context_recall": 1.0
+    },
+    {
+      "id": "Q03",
+      "question": "Is there a remote position available at inmind.ai?",
+      "faithfulness": 1.0,
+      "answer_relevancy": 1.0,
+      "context_precision": 0.4,
+      "context_recall": 0.3333
+    },
+    {
+      "id": "Q04",
+      "question": "What internship positions are available at BMW Group?",
+      "faithfulness": 0.0833,
+      "answer_relevancy": 0.5,
+      "context_precision": 1.0,
+      "context_recall": 1.0
+    },
+    {
+      "id": "Q05",
+      "question": "What backend development roles are currently open?",
+      "faithfulness": 1.0,
+      "answer_relevancy": 1.0,
+      "context_precision": 0.6,
+      "context_recall": 0.5
+    },
+    {
+      "id": "Q06",
+      "question": "What is the salary range for mid-level positions at inmind.ai?",
+      "faithfulness": 1.0,
+      "answer_relevancy": 1.0,
+      "context_precision": 0.6,
+      "context_recall": 1.0
+    },
+    {
+      "id": "Q07",
+      "question": "How many days of annual leave does an employee get after their first year?",
+      "faithfulness": 1.0,
+      "answer_relevancy": 1.0,
+      "context_precision": 0.2,
+      "context_recall": 1.0
+    },
+    {
+      "id": "Q08",
+      "question": "What is the code of conduct regarding discrimination and harassment?",
+      "faithfulness": 1.0,
+      "answer_relevancy": 1.0,
+      "context_precision": 0.2,
+      "context_recall": 1.0
+    },
+    {
+      "id": "Q09",
+      "question": "Can I work remotely full-time?",
+      "faithfulness": 1.0,
+      "answer_relevancy": 0.5,
+      "context_precision": 0.2,
+      "context_recall": 1.0
+    },
+    {
+      "id": "Q10",
+      "question": "What happens if an employee is terminated for misconduct?",
+      "faithfulness": 1.0,
+      "answer_relevancy": 0.5,
+      "context_precision": 0.6,
+      "context_recall": 1.0
+    },
+    {
+      "id": "Q11",
+      "question": "What are the standard working hours per week?",
+      "faithfulness": 1.0,
+      "answer_relevancy": 0.5,
+      "context_precision": 0.2,
+      "context_recall": 1.0
+    },
+    {
+      "id": "Q12",
+      "question": "How many sick leave days am I entitled to and what documentation is required?",
+      "faithfulness": 1.0,
+      "answer_relevancy": 1.0,
+      "context_precision": 0.2,
+      "context_recall": 1.0
+    },
+    {
+      "id": "Q13",
+      "question": "Who are the top candidates for the Machine Learning Engineer role?",
+      "faithfulness": 1.0,
+      "answer_relevancy": 1.0,
+      "context_precision": 1.0,
+      "context_recall": 1.0
+    },
+    {
+      "id": "Q14",
+      "question": "Evaluate the best candidates for a backend development position",
+      "faithfulness": 1.0,
+      "answer_relevancy": 1.0,
+      "context_precision": 1.0,
+      "context_recall": 0.75
+    },
+    {
+      "id": "Q15",
+      "question": "Who are the top 3 candidates for the BMW AI track placement?",
+      "faithfulness": 0.75,
+      "answer_relevancy": 0.5,
+      "context_precision": 1.0,
+      "context_recall": 0.75
+    },
+    {
+      "id": "Q16",
+      "question": "Screen candidates for a frontend developer position and show their match scores",
+      "faithfulness": 1.0,
+      "answer_relevancy": 1.0,
+      "context_precision": 1.0,
+      "context_recall": 1.0
+    },
+    {
+      "id": "Q17",
+      "question": "What technical skills are required for the BMW AI placement?",
+      "faithfulness": 1.0,
+      "answer_relevancy": 1.0,
+      "context_precision": 1.0,
+      "context_recall": 1.0
+    },
+    {
+      "id": "Q18",
+      "question": "What programming languages are used in the Robotics track at BMW?",
+      "faithfulness": 1.0,
+      "answer_relevancy": 1.0,
+      "context_precision": 0.2,
+      "context_recall": 1.0
+    },
+    {
+      "id": "Q19",
+      "question": "How long does the BMW internship last and where is it located?",
+      "faithfulness": 1.0,
+      "answer_relevancy": 1.0,
+      "context_precision": 0.8,
+      "context_recall": 1.0
+    },
+    {
+      "id": "Q20",
+      "question": "What tools are needed for the Simulation track?",
+      "faithfulness": 0.75,
+      "answer_relevancy": 1.0,
+      "context_precision": 0.6,
+      "context_recall": 1.0
+    },
+    {
+      "id": "Q21",
+      "question": "How are backend interns assessed at BMW Group?",
+      "faithfulness": 1.0,
+      "answer_relevancy": 1.0,
+      "context_precision": 0.2,
+      "context_recall": 1.0
+    }
+  ],
+  "n_questions": 21
+}

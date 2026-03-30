@@ -1,0 +1,15 @@
+[theme]
+base = "dark"
+primaryColor = "#00d4aa"
+backgroundColor = "#07070c"
+secondaryBackgroundColor = "#12121a"
+textColor = "#e8e8ed"
+font = "sans serif"
+
+[server]
+headless = true
+# XSRF protection needs CORS-compatible settings; omit enableCORS to avoid override warnings
+enableXsrfProtection = true
+
+[browser]
+gatherUsageStats = false

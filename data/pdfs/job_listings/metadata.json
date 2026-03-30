@@ -1,0 +1,226 @@
+{
+  "job_syn_001.pdf": {
+    "source_id": "job_syn_001",
+    "title": "Machine Learning Engineer",
+    "company": "inmind.ai",
+    "track": null,
+    "employment_type": "Full-time",
+    "seniority": "Mid-level"
+  },
+  "job_syn_002.pdf": {
+    "source_id": "job_syn_002",
+    "title": "AI Research Intern",
+    "company": "BMW Group",
+    "track": "AI",
+    "employment_type": "Internship",
+    "seniority": "Internship"
+  },
+  "job_syn_003.pdf": {
+    "source_id": "job_syn_003",
+    "title": "Junior Curriculum Developer",
+    "company": "inmind.ai",
+    "track": null,
+    "employment_type": "Part-time",
+    "seniority": "Junior"
+  },
+  "job_syn_004.pdf": {
+    "source_id": "job_syn_004",
+    "title": "Backend Development Intern",
+    "company": "idealworks GmbH",
+    "track": "Backend",
+    "employment_type": "Internship",
+    "seniority": "Internship"
+  },
+  "job_syn_005.pdf": {
+    "source_id": "job_syn_005",
+    "title": "DevOps Engineer",
+    "company": "inmind.ai",
+    "track": null,
+    "employment_type": "Full-time",
+    "seniority": "Mid-level"
+  },
+  "job_syn_006.pdf": {
+    "source_id": "job_syn_006",
+    "title": "Frontend Intern",
+    "company": "BMW Group",
+    "track": "Frontend",
+    "employment_type": "Internship",
+    "seniority": "Internship"
+  },
+  "job_syn_007.pdf": {
+    "source_id": "job_syn_007",
+    "title": "Simulation Engineer Intern",
+    "company": "idealworks GmbH",
+    "track": "Simulation",
+    "employment_type": "Internship",
+    "seniority": "Internship"
+  },
+  "job_syn_008.pdf": {
+    "source_id": "job_syn_008",
+    "title": "AI Curriculum Designer",
+    "company": "inmind.ai",
+    "track": null,
+    "employment_type": "Full-time",
+    "seniority": "Senior"
+  },
+  "job_syn_009.pdf": {
+    "source_id": "job_syn_009",
+    "title": "Robotics Intern",
+    "company": "BMW Group",
+    "track": "Robotics",
+    "employment_type": "Internship",
+    "seniority": "Internship"
+  },
+  "job_syn_010.pdf": {
+    "source_id": "job_syn_010",
+    "title": "ML Operations Engineer",
+    "company": "inmind.ai",
+    "track": null,
+    "employment_type": "Full-time",
+    "seniority": "Mid-level"
+  },
+  "job_syn_011.pdf": {
+    "source_id": "job_syn_011",
+    "title": "Frontend Developer",
+    "company": "idealworks GmbH",
+    "track": "Frontend",
+    "employment_type": "Full-time",
+    "seniority": "Mid-level"
+  },
+  "job_syn_012.pdf": {
+    "source_id": "job_syn_012",
+    "title": "AI Intern",
+    "company": "BMW Group",
+    "track": "AI",
+    "employment_type": "Internship",
+    "seniority": "Internship"
+  },
+  "job_syn_013.pdf": {
+    "source_id": "job_syn_013",
+    "title": "Simulation Developer",
+    "company": "idealworks GmbH",
+    "track": "Simulation",
+    "employment_type": "Full-time",
+    "seniority": "Mid-level"
+  },
+  "job_syn_014.pdf": {
+    "source_id": "job_syn_014",
+    "title": "Robotics Software Engineer",
+    "company": "BMW Group",
+    "track": "Robotics",
+    "employment_type": "Full-time",
+    "seniority": "Mid-level"
+  },
+  "job_syn_015.pdf": {
+    "source_id": "job_syn_015",
+    "title": "Data Scientist",
+    "company": "inmind.ai",
+    "track": null,
+    "employment_type": "Full-time",
+    "seniority": "Senior"
+  },
+  "job_syn_016.pdf": {
+    "source_id": "job_syn_016",
+    "title": "AI Engineer",
+    "company": "BMW Group",
+    "track": "AI",
+    "employment_type": "Full-time",
+    "seniority": "Mid-level"
+  },
+  "job_syn_017.pdf": {
+    "source_id": "job_syn_017",
+    "title": "Backend Engineer",
+    "company": "idealworks GmbH",
+    "track": "Backend",
+    "employment_type": "Full-time",
+    "seniority": "Mid-level"
+  },
+  "job_syn_018.pdf": {
+    "source_id": "job_syn_018",
+    "title": "AI Specialist",
+    "company": "BMW Group",
+    "track": "AI",
+    "employment_type": "Full-time",
+    "seniority": "Senior"
+  },
+  "job_syn_019.pdf": {
+    "source_id": "job_syn_019",
+    "title": "Curriculum Manager",
+    "company": "inmind.ai",
+    "track": null,
+    "employment_type": "Full-time",
+    "seniority": "Manager"
+  },
+  "job_syn_020.pdf": {
+    "source_id": "job_syn_020",
+    "title": "Frontend Engineer",
+    "company": "BMW Group",
+    "track": "Frontend",
+    "employment_type": "Full-time",
+    "seniority": "Mid-level"
+  },
+  "job_syn_021.pdf": {
+    "source_id": "job_syn_021",
+    "title": "Robotics Systems Engineer",
+    "company": "idealworks GmbH",
+    "track": "Robotics",
+    "employment_type": "Full-time",
+    "seniority": "Senior"
+  },
+  "job_syn_022.pdf": {
+    "source_id": "job_syn_022",
+    "title": "Quality Assurance Specialist",
+    "company": "inmind.ai",
+    "track": null,
+    "employment_type": "Full-time",
+    "seniority": "Mid-level"
+  },
+  "job_syn_023.pdf": {
+    "source_id": "job_syn_023",
+    "title": "AI Operations Coordinator",
+    "company": "BMW Group",
+    "track": null,
+    "employment_type": "Full-time",
+    "seniority": "Manager"
+  },
+  "job_syn_024.pdf": {
+    "source_id": "job_syn_024",
+    "title": "Academy Operations Administrator",
+    "company": "inmind.ai",
+    "track": null,
+    "employment_type": "Part-time",
+    "seniority": "Junior"
+  },
+  "job_syn_025.pdf": {
+    "source_id": "job_syn_025",
+    "title": "Robotics Testing Intern",
+    "company": "idealworks GmbH",
+    "track": "Robotics",
+    "employment_type": "Internship",
+    "seniority": "Internship"
+  },
+  "job_syn_026.pdf": {
+    "source_id": "job_syn_026",
+    "title": "Simulation Data Analyst",
+    "company": "BMW Group",
+    "track": "Simulation",
+    "employment_type": "Full-time",
+    "seniority": "Mid-level"
+  },
+  "job_syn_027.pdf": {
+    "source_id": "job_syn_027",
+    "title": "Technical Content Writer",
+    "company": "inmind.ai",
+    "track": null,
+    "employment_type": "Full-time",
+    "seniority": "Junior"
+  },
+  "job_syn_028.pdf": {
+    "source_id": "job_syn_028",
+    "title": "Backend Systems Intern",
+    "company": "idealworks GmbH",
+    "track": "Backend",
+    "employment_type": "Internship",
+    "seniority": "Internship"
+  }
+}

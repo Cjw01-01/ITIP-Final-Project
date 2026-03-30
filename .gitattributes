@@ -1,0 +1,2 @@
+# Git LFS — large model weights
+models/track_classifier/model.safetensors filter=lfs diff=lfs merge=lfs -text

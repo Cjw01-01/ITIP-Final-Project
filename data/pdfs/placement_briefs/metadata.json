@@ -1,0 +1,86 @@
+{
+  "place_001.pdf": {
+    "source_id": "place_001",
+    "title": "Introduction to BMW Group Internships",
+    "track": "AI",
+    "doc_type": "overview"
+  },
+  "place_002.pdf": {
+    "source_id": "place_002",
+    "title": "Technical Stack for Backend Development",
+    "track": "Backend",
+    "doc_type": "technical_stack"
+  },
+  "place_003.pdf": {
+    "source_id": "place_003",
+    "title": "Expectations for Frontend Interns",
+    "track": "Frontend",
+    "doc_type": "expectations"
+  },
+  "place_004.pdf": {
+    "source_id": "place_004",
+    "title": "Logistical Details for Munich Internships",
+    "track": "Robotics",
+    "doc_type": "logistics"
+  },
+  "place_005.pdf": {
+    "source_id": "place_005",
+    "title": "Assessment Criteria for Simulation Track",
+    "track": "Simulation",
+    "doc_type": "assessment"
+  },
+  "place_006.pdf": {
+    "source_id": "place_006",
+    "title": "Overview of Robotics Internship Program",
+    "track": "Robotics",
+    "doc_type": "overview"
+  },
+  "place_007.pdf": {
+    "source_id": "place_007",
+    "title": "Technical Stack for AI Internships",
+    "track": "AI",
+    "doc_type": "technical_stack"
+  },
+  "place_008.pdf": {
+    "source_id": "place_008",
+    "title": "Expectations for Simulation Interns",
+    "track": "Simulation",
+    "doc_type": "expectations"
+  },
+  "place_009.pdf": {
+    "source_id": "place_009",
+    "title": "Logistics for Frontend Internships",
+    "track": "Frontend",
+    "doc_type": "logistics"
+  },
+  "place_010.pdf": {
+    "source_id": "place_010",
+    "title": "Assessment Standards for Backend Interns",
+    "track": "Backend",
+    "doc_type": "assessment"
+  },
+  "place_011.pdf": {
+    "source_id": "place_011",
+    "title": "Overview of Frontend Internship Program",
+    "track": "Frontend",
+    "doc_type": "overview"
+  },
+  "place_012.pdf": {
+    "source_id": "place_012",
+    "title": "Technical Stack for Robotics Internships",
+    "track": "Robotics",
+    "doc_type": "technical_stack"
+  },
+  "place_013.pdf": {
+    "source_id": "place_013",
+    "title": "Expectations for AI Interns",
+    "track": "AI",
+    "doc_type": "expectations"
+  },
+  "place_014.pdf": {
+    "source_id": "place_014",
+    "title": "Logistics for Simulation Internships",
+    "track": "Simulation",
+    "doc_type": "logistics"
+  }
+}

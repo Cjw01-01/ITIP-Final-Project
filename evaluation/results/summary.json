@@ -1,0 +1,19 @@
+{
+  "timestamp": "2026-03-22 05:35:27",
+  "total_questions": 29,
+  "routing_accuracy": 0.9655,
+  "retrieval_aggregate": {
+    "avg_precision": 0.2353,
+    "avg_recall": 0.9412,
+    "avg_mrr": 0.8059,
+    "total_questions": 17
+  },
+  "ragas_aggregate": {
+    "faithfulness": 0.8849,
+    "answer_relevancy": 0.881,
+    "context_precision": 0.6,
+    "context_recall": 0.9016
+  },
+  "guardrails_tested": 4,
+  "guardrails_blocked": 4
+}

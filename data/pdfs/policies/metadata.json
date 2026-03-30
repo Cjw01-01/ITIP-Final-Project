@@ -1,0 +1,62 @@
+{
+  "hr_pol_001.pdf": {
+    "source_id": "hr_pol_001",
+    "title": "Annual Leave Policy",
+    "category": "leave"
+  },
+  "hr_pol_002.pdf": {
+    "source_id": "hr_pol_002",
+    "title": "Code of Conduct Policy",
+    "category": "conduct"
+  },
+  "hr_pol_003.pdf": {
+    "source_id": "hr_pol_003",
+    "title": "Remote Work Policy",
+    "category": "remote_work"
+  },
+  "hr_pol_004.pdf": {
+    "source_id": "hr_pol_004",
+    "title": "Employee Termination Policy",
+    "category": "termination"
+  },
+  "hr_pol_005.pdf": {
+    "source_id": "hr_pol_005",
+    "title": "Workplace Benefits Policy",
+    "category": "benefits"
+  },
+  "hr_pol_006.pdf": {
+    "source_id": "hr_pol_006",
+    "title": "Working Hours Policy",
+    "category": "working_hours"
+  },
+  "hr_pol_007.pdf": {
+    "source_id": "hr_pol_007",
+    "title": "Sick Leave Policy",
+    "category": "leave"
+  },
+  "hr_pol_008.pdf": {
+    "source_id": "hr_pol_008",
+    "title": "Disciplinary Action Policy",
+    "category": "conduct"
+  },
+  "hr_pol_009.pdf": {
+    "source_id": "hr_pol_009",
+    "title": "General Workplace Safety Policy",
+    "category": "general"
+  },
+  "hr_pol_010.pdf": {
+    "source_id": "hr_pol_010",
+    "title": "Performance Review Policy",
+    "category": "performance_review"
+  },
+  "hr_pol_011.pdf": {
+    "source_id": "hr_pol_011",
+    "title": "Employee Onboarding Policy",
+    "category": "onboarding"
+  },
+  "hr_pol_012.pdf": {
+    "source_id": "hr_pol_012",
+    "title": "Expense Reimbursement Policy",
+    "category": "expenses"
+  }
+}

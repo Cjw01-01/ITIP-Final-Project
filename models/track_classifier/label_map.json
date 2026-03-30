@@ -1,0 +1,23 @@
+{
+  "labels": [
+    "AI",
+    "Backend",
+    "Frontend",
+    "Robotics",
+    "Simulation"
+  ],
+  "label2id": {
+    "AI": 0,
+    "Backend": 1,
+    "Frontend": 2,
+    "Robotics": 3,
+    "Simulation": 4
+  },
+  "id2label": {
+    "0": "AI",
+    "1": "Backend",
+    "2": "Frontend",
+    "3": "Robotics",
+    "4": "Simulation"
+  }
+}
